@@ -17,7 +17,7 @@ class ResultViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        label.text = "初めまして\(argString)さん"
+        label.text = "こんにちは、\(argString)さん"
     }
     
 
